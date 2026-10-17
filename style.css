@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: azure;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+}
+.button{
+    border: none;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.clear-fix{
+    clear: both;
+}
+.txt-center{
+    text-align: center;
+}
+.py-20{
+    padding: 20px;
+}
+
+.w-80{
+    width: 80%;
+}
+.w-20{
+    width: 20%;
+}
+.header .container{
+    background-color:peru;
+    color: azure; 
+}
+.border{
+    border: 1px blanchedalmond solid;
+    padding: 8px;
+    border-radius: 14px;
+}
+.anchor{
+    text-decoration: none;
+    color: azure;
+}
+.image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.heading{
+    border-bottom: 1.5px beige solid;
+}
+.margin{
+    margin: auto;
+    margin-block: 20px;
+}
+a{
+    text-decoration: none;
+}
+.a-button{
+    padding: 12px;
+    border-radius: 10px;
+    background-color: peru;
+    color: azure;
+    border: none;
+}
+.about .container{
+    border-radius: 10px;
+    background-color: white;   
+}
+.skills .container {
+     border-radius: 10px;
+    background-color: white;
+    
+}
+.tools{
+    width: 21%;
+    background-color: azure;
+    border: solid 1px lightsteelblue;
+    padding-block: 10px;
+    padding:15px;   
+    border-radius: 10px;
+    background-color: white; 
+    margin: 14px;
+}
+.skills h3{
+    color: darkblue;
+}
+.experience h2, .experience h4, .skills h2 , .about h2{
+    color: darkblue;
+}
+.experience .container{
+      border-radius: 10px;
+    background-color: white; 
+}
+.experience img{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border: 1px solid lightsteelblue;
+    margin: 10px;
+}
+.exp{
+    border: 1px blanchedalmond solid;
+    padding: 15px;
+    border-radius: 14px;
+    border-left: 7px brown solid;
+    background-color: azure;
+    padding-block: 10px;
+    margin: 15px;
+}
+.experience{
+    padding-block: 20px;
+}
+px-10{
+    padding-top: 10px;
+}
+.c-button{
+    padding: 8px;
+    border-radius: 3px;
+    background-color: peru;
+    color: azure;
+    border: none;
+}
+.contact .container{
+    border-radius: 10px;
+    background-color: burlywood;
+    color: white;
+}
+.rights{
+    border-radius: 10px;
+    background-color: peru;
+    color: white;
+    height: 70px;  
+}
+.rights .para{
+    padding-block: 25px;
+}
+.rights span{
+    color: brown;
+}
